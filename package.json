@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/est-tempore-debitis-quia",
-  "version": "16.41.435",
+  "version": "16.41.436",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -511,5 +511,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/est-tempore-debitis-quia/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
